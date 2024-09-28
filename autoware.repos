@@ -131,7 +131,7 @@ repositories:
   # vehicle
   vehicle/sample_vehicle_launch:
     type: git
-    url: https://github.com/autowarefoundation/sample_vehicle_launch.git
+    url: https://github.com/Dustyleaf99/B30-EV_vehicle_launch.git
     version: main
   vehicle/awsim_labs_vehicle_launch:
     type: git
